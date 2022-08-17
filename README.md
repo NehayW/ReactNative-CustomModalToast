@@ -2,6 +2,8 @@
 
 Standard Module CustomModalToast
 
+![custommodal](https://user-images.githubusercontent.com/34777673/184874045-624ba069-6c58-4e81-b46a-9ee43806ff6c.gif)
+
 ## Custom Modal
 
 There are two types of modal success and error type. You can set type in component prop and also can change title and subtitle. The component is customizable according to need. Path of component src/component/RNModal.js
